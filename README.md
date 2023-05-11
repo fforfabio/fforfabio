@@ -25,13 +25,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fforfabio&theme=garden&date_format=j%20M%5B%20Y%5D&ring=8EEB73&sideNums=38EB05&fire=FFFA00)](https://git.io/streak-stats)
 
-
+<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ReLive27/ReLive27/blob/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ReLive27/ReLive27/blob/main/assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
-<!---
+
 fforfabio/fforfabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
