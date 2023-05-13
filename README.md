@@ -25,7 +25,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fforfabio&theme=garden&date_format=j%20M%5B%20Y%5D&ring=8EEB73&sideNums=38EB05&fire=FFFA00)](https://git.io/streak-stats)
 ![fforfabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fforfabio&show_icons=true&theme=vue-dark&bg_color=113c5c&text_color=fff122&icon_color=fff122&title_color=fff122)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fforfabio&layout=compact&title_color=fd3412&text_color=2200fe&border_color=2200fe)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fforfabio&layout=donut&title_color=fd3412&text_color=2200fe&border_color=2200fe)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 <!---
