@@ -2,7 +2,11 @@
 - 👋 Hi, I’m @fforfabio :mailbox_with_mail:, a computer engineer :computer:
 - 👀 I’m interested in sports, basketball :basketball: on top, and coding
 - 🌱 I’m currently learning java, javascript and nodejs
+  
+![AestheticGifGIF](https://github.com/fforfabio/fforfabio/assets/120016875/244725b1-393c-40b0-9b8a-4f09210a0def)
 
+
+  
 ***
 
 ### :hammer_and_wrench: LANGUAGES AND TOOLS:
