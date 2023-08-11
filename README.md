@@ -1,7 +1,7 @@
 ### :man_technologist: ABOUT ME:
 - 👋 Hi, I’m @fforfabio :mailbox_with_mail:, a computer engineer :computer:
 - 👀 I’m interested in sports, basketball :basketball: on top, and coding
-- 🌱 I’m currently working with java, javascript, HTML5 and nodejs
+- 🌱 I’m currently working with java, javascript, jQuery, HTML5 and nodejs
   
 ![AestheticGifGIF](https://github.com/fforfabio/fforfabio/assets/120016875/244725b1-393c-40b0-9b8a-4f09210a0def)
 
